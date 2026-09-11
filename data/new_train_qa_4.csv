@@ -1,0 +1,191 @@
+question,topic,crop,agro_zone,document_id,reference_answer,QuestionId
+My cassava leaves have angular water-soaked spots underneath — what is it?,crop_diseases,cassava,sub_humid,doc_dis_004,"Likely cassava bacterial blight; spots enlarge, turn brown, and cause leaf blighting.",46
+How does cassava bacterial blight spread?,crop_diseases,cassava,sub_humid,doc_dis_004,"Through infected stem cuttings, rain splash, contaminated tools, and insects like grasshoppers.",47
+When is cassava bacterial blight worst?,crop_diseases,cassava,sub_humid,doc_dis_004,Damage is worse in the wet season and in young plants.,48
+How can I tell bacterial blight from anthracnose on cassava leaves?,crop_diseases,cassava,sub_humid,doc_dis_004,"Bacterial blight leaves keep a horizontal petiole before falling, while anthracnose-damaged petioles droop.",49
+My cassava field tools cut infected plants — any risk?,crop_diseases,cassava,sub_humid,doc_dis_004,"Yes, contaminated tools can spread the bacterium; clean tools between plants.",50
+What causes cankers on my cassava stems?,crop_diseases,cassava,sub_humid,doc_dis_005,"Cassava anthracnose disease, a fungus that produces cankers on stems and petiole bases.",51
+Why are my cassava stems twisting and breaking?,crop_diseases,cassava,sub_humid,doc_dis_005,"Severe anthracnose attack can twist and break soft stem parts, usually starting at the rains.",52
+What insect helps spread cassava anthracnose?,crop_diseases,cassava,sub_humid,doc_dis_005,"The bug Pseudotheraptus devastans, which creates wounds the fungus enters through.",53
+Does cassava anthracnose affect other crops on my farm?,crop_diseases,cassava,sub_humid,doc_dis_005,"Yes, it can also affect coffee, pepper, and pawpaw.",54
+How does cassava anthracnose spread between fields?,crop_diseases,cassava,sub_humid,doc_dis_005,By wind-borne spores from cankers and by planting infected stem cuttings.,55
+Grey fungal patches on my cassava stem cuttings — what's wrong?,crop_diseases,cassava,sub_humid,doc_dis_006,Likely cassava bud necrosis; it can kill the buds and reduce sprouting.,56
+Why won't my cassava stem cuttings sprout?,crop_diseases,cassava,sub_humid,doc_dis_006,Bud necrosis fungus may have killed the buds (eyes) on the cuttings.,57
+How does bud necrosis spread in cassava?,crop_diseases,cassava,sub_humid,doc_dis_006,Mainly through planting infected stem cuttings and via debris left after harvest.,58
+What should I do with old diseased cassava stems after harvest?,crop_diseases,cassava,sub_humid,doc_dis_006,"Destroy them, since dead diseased stems and debris serve as sources of bud necrosis.",59
+Is bud necrosis limited to cassava stems only?,crop_diseases,cassava,sub_humid,doc_dis_006,"No, the fungal patches appear on both stems and leaves.",60
+My cassava leaves have small brown spots with a shot-hole look — what disease?,crop_diseases,cassava,sub_humid,doc_dis_007,Cassava brown leaf spot; dead tissue can fall out leaving a shot-hole appearance.,61
+White circular spots with purple borders on cassava leaves — what is that?,crop_diseases,cassava,sub_humid,doc_dis_007,Cassava white leaf spot disease.,62
+How is cassava leaf blight different from bacterial blight?,crop_diseases,cassava,sub_humid,doc_dis_007,Leaf blight lesions lack the water-soaked look and dark borders typical of bacterial blight.,63
+How do cassava leaf spot diseases spread?,crop_diseases,cassava,sub_humid,doc_dis_007,Via wind or rain splash from infected leaves on the plant or fallen on the ground.,64
+Will severe brown leaf spot kill my cassava plant?,crop_diseases,cassava,sub_humid,doc_dis_007,"Under severe attack, leaves turn yellow, dry, and die prematurely.",65
+Dark brown streaks on cassava stems with cracked storage roots — what disease?,crop_diseases,cassava,sub_humid,doc_dis_008,"Cassava brown streak disease, which also discolors and distorts storage roots.",66
+How is brown streak different from cassava mosaic on the leaves?,crop_diseases,cassava,sub_humid,doc_dis_008,Brown streak leaves show yellow patches without the leaf distortion seen in mosaic disease.,67
+How does cassava brown streak disease spread?,crop_diseases,cassava,sub_humid,doc_dis_008,"Mainly through infected stem cuttings, and it is also believed to spread via insects.",68
+Which part of cassava is most affected by brown streak disease?,crop_diseases,cassava,sub_humid,doc_dis_008,"Storage roots become distorted, cracked, and discolored, in addition to stem and leaf symptoms.",69
+Where has cassava brown streak disease historically been reported?,crop_diseases,cassava,sub_humid,doc_dis_008,Historically it was reported only in cassava-growing regions of East and Southern Africa.,70
+My cassava storage roots smell bad and are rotting — cause?,crop_diseases,cassava,sub_humid,doc_dis_009,"Likely cassava root rot, caused by soil fungi common in poorly drained soils.",71
+What soil conditions favor cassava root rot?,crop_diseases,cassava,sub_humid,doc_dis_009,Poorly drained soils and recently cleared forest fallow land favor root rot fungi.,72
+How do root rot fungi enter cassava plants?,crop_diseases,cassava,sub_humid,doc_dis_009,"Through wounds caused by pests or farm tools, or by piercing roots directly.",73
+Does cassava root rot affect other crops I grow nearby?,crop_diseases,cassava,sub_humid,doc_dis_009,"Yes, root rot fungi also attack maize, soybean, sunflower, and coffee.",74
+How can I stop root rot fungi spreading between cassava fields?,crop_diseases,cassava,sub_humid,doc_dis_009,Clean tillage tools after use and burn infected plant debris.,75
+Can my cassava plant recover after losing leaves to disease?,crop_diseases,cassava,sub_humid,doc_dis_010,"Most varieties tolerate leaf loss without root yield loss, so don't rush control at first symptoms.",76
+Why do leaf diseases still hurt my cassava root harvest?,crop_diseases,cassava,sub_humid,doc_dis_010,"They interfere with the plant's ability to make and store food, reducing storage root number and size.",77
+Why can't I use cuttings from a diseased cassava field?,crop_diseases,cassava,sub_humid,doc_dis_010,Disease contamination makes stems unhealthy and unsuitable as planting material.,78
+Does cassava disease increase weeds in my field?,crop_diseases,cassava,sub_humid,doc_dis_010,"Yes, defoliation from disease encourages weed growth and can expose loose soils to erosion.",79
+Which cassava diseases cause the most direct root yield loss?,crop_diseases,cassava,sub_humid,doc_dis_010,Root rot and brown streak disease directly reduce storage root yield.,80
+Does the age of my cassava plant affect disease damage?,crop_diseases,cassava,sub_humid,doc_dis_011,"Yes, mosaic disease infection within four months of planting causes higher losses than later infection.",81
+Are leaf spot diseases dangerous to a young cassava crop?,crop_diseases,cassava,sub_humid,doc_dis_011,"Leaf spot diseases mainly affect older leaves on plants over five to nine months, so they rarely cause severe loss.",82
+Which season is worse for cassava bacterial blight?,crop_diseases,cassava,sub_humid,doc_dis_011,"The wet season, along with anthracnose.",83
+Which season is worse for cassava brown streak symptoms?,crop_diseases,cassava,sub_humid,doc_dis_011,Symptoms of brown streak disease are more serious in the dry season.,84
+Can root rot occur in both wet and dry seasons?,crop_diseases,cassava,sub_humid,doc_dis_011,"Yes, root rot damage can be severe in either season depending on the fungus involved.",85
+What cassava stems should I avoid using as planting material?,crop_diseases,cassava,sub_humid,doc_dis_012,"Avoid stems with leaf discoloration, wilting, gum exudate, cankers, fungus patches, or streaks.",86
+"For cassava mosaic control, where should I cut my planting stems from?",crop_diseases,cassava,sub_humid,doc_dis_012,Take cuttings from branches rather than the main stem or basal portions where possible.,87
+How do I select the best cassava plants for next season's cuttings?,crop_diseases,cassava,sub_humid,doc_dis_012,Tag and select plants that sprouted without disease symptoms at harvest time.,88
+What happens if I plant diseased cassava stem cuttings?,crop_diseases,cassava,sub_humid,doc_dis_012,They sprout into diseased seedlings or may fail to sprout at all.,89
+Why is choosing healthy cassava planting material so important?,crop_diseases,cassava,sub_humid,doc_dis_012,"Most cassava diseases spread through infected stem cuttings, making clean planting material the main control.",90
+Which cassava variety is a good all-round choice against disease and pests?,crop_diseases,cassava,sub_humid,doc_dis_013,"TMS 30572 combines high yield with good tolerance to green mite, mosaic disease, and bacterial blight.",91
+Which Nigerian cassava variety has good disease tolerance and high dry matter?,crop_diseases,cassava,sub_humid,doc_dis_013,"NR 8082 shows good tolerance to green mite, mosaic disease, and bacterial blight, plus high dry matter.",92
+Should variety choice be part of my cassava disease control plan?,crop_diseases,cassava,sub_humid,doc_dis_013,"Yes, selecting a locally tolerant variety alongside clean planting material and sanitation is key.",93
+Do all cassava varieties have the same disease tolerance?,crop_diseases,cassava,sub_humid,doc_dis_013,"No, varieties differ in tolerance to major diseases and pests across regions.",94
+What features besides disease tolerance should I consider in a cassava variety?,crop_diseases,cassava,sub_humid,doc_dis_013,"Yield potential, dry matter content, cyanogenic potential, ground storability, and weed suppression.",95
+What is Aflasafe and how does it work?,post_harvest,maize,semi_arid,doc_pos_004,A biocontrol product with four harmless Aspergillus flavus strains that outcompete toxin-producing strains.,96
+Does Aflasafe use chemicals to fight aflatoxin?,post_harvest,maize,semi_arid,doc_pos_004,"No, it uses naturally occurring, non-toxin-producing fungal strains, not chemical fungicides.",97
+Which crops is Aflasafe used on in Nigeria?,post_harvest,maize,semi_arid,doc_pos_004,Maize and groundnut.,98
+Why were the four Aflasafe strains chosen?,post_harvest,maize,semi_arid,doc_pos_004,They compete well and are widely adapted across Nigeria's growing regions.,99
+How does Aflasafe actually reduce aflatoxin in my grain?,post_harvest,maize,semi_arid,doc_pos_004,"The harmless strains outcompete toxin-producing strains, so harvested grain carries mostly safe strains.",100
+When should I apply Aflasafe to my maize?,post_harvest,maize,semi_arid,doc_pos_005,"About two to three weeks before flowering, once per cropping season.",101
+What rate of Aflasafe should I apply per hectare?,post_harvest,maize,semi_arid,doc_pos_005,"About ten kilograms per hectare, broadcast uniformly by hand.",102
+Can I apply Aflasafe after harvest to stored grain?,post_harvest,maize,semi_arid,doc_pos_005,"No, it should be applied to the growing crop in the field, not after harvest.",103
+Who should supervise Aflasafe application?,post_harvest,maize,semi_arid,doc_pos_005,"Extension agents or trained field staff, to ensure even coverage and correct timing.",104
+How is Aflasafe applied to the field?,post_harvest,maize,semi_arid,doc_pos_005,It is broadcast by hand across the field as a coated sorghum-grain product.,105
+How much does Aflasafe reduce aflatoxin in maize?,post_harvest,maize,semi_arid,doc_pos_006,"Commonly seventy to ninety-five percent less than untreated crops, depending on the year.",106
+Will Aflasafe-treated maize meet EU aflatoxin limits?,post_harvest,maize,semi_arid,doc_pos_006,"In most years, treated maize met the strict four microgram per kilogram EU limit far more often than untreated maize.",107
+Is treated maize likely to exceed the US aflatoxin action level?,post_harvest,maize,semi_arid,doc_pos_006,Almost none of the treated crop exceeded the twenty microgram per kilogram US action level.,108
+Does Aflasafe work on groundnut as well as maize?,post_harvest,groundnuts,semi_arid,doc_pos_006,"Yes, both maize and groundnut treated with Aflasafe had much less aflatoxin than untreated crops.",109
+Does Aflasafe's effect vary by year?,post_harvest,maize,semi_arid,doc_pos_006,"Yes, the reduction depends on how much aflatoxin pressure untreated crops faced that year.",110
+Does Aflasafe still help if I store my grain poorly?,post_harvest,maize,semi_arid,doc_pos_007,"Yes, treated grain still had eighty to one hundred percent less aflatoxin even after simulated poor storage.",111
+Why does Aflasafe protection continue after harvest?,post_harvest,maize,semi_arid,doc_pos_007,Beneficial fungal strains become established on the crop before harvest and continue to dominate in storage.,112
+"Is Aflasafe only useful in the field, not in storage?",post_harvest,maize,semi_arid,doc_pos_007,"No, its benefit extends into storage as well, not just the field.",113
+What happens to aflatoxin levels in untreated maize under poor storage?,post_harvest,maize,semi_arid,doc_pos_007,They rise much more than in Aflasafe-treated grain under the same poor storage conditions.,114
+Does Aflasafe replace the need for good drying before storage?,post_harvest,maize,semi_arid,doc_pos_007,"No, good storage practice is still important; Aflasafe reduces but doesn't eliminate storage risk.",115
+Do I need to apply Aflasafe every single season?,post_harvest,maize,semi_arid,doc_pos_008,"Yes, it should be applied every cropping season for the most reliable long-term protection.",116
+Why does Aflasafe need repeat yearly application like fertiliser?,post_harvest,maize,semi_arid,doc_pos_008,"Consistent yearly use gives the best long-term protection, similar to seed or fertiliser inputs.",117
+Does Aflasafe make aflatoxin levels more predictable across a harvest?,post_harvest,maize,semi_arid,doc_pos_008,"Yes, treated lots show much less sample-to-sample variation than untreated lots.",118
+Why is variation in aflatoxin levels a risk for untreated grain?,post_harvest,maize,semi_arid,doc_pos_008,Even a lot testing low on average may still contain a few very unsafe samples.,119
+Is one-time Aflasafe use enough for long-term protection?,post_harvest,maize,semi_arid,doc_pos_008,"No, regular yearly application is recommended rather than a single application.",120
+How do floods hurt food security in Nigeria?,climate_adaptation,general,sub_humid,doc_cli_004,"They destroy crops, erode topsoil, damage irrigation infrastructure, and disrupt market access.",141
+What happened during the 2012 Nigeria floods?,climate_adaptation,general,sub_humid,doc_cli_004,Over two million people were displaced and hundreds of hectares of farmland were drowned.,142
+Which crops were hit hardest by the 2012 floods?,climate_adaptation,general,sub_humid,doc_cli_004,"Staple crops like rice, maize, and cassava.",143
+Why do food prices rise after floods in Nigeria?,climate_adaptation,general,sub_humid,doc_cli_004,"Damaged roads and market access cause post-harvest losses and disrupted supply, driving prices up.",144
+Which parts of Nigeria are most flood-prone?,climate_adaptation,general,sub_humid,doc_cli_004,"The Niger Delta, Lagos, and other coastal areas.",145
+How do droughts affect northern Nigerian farmers?,climate_adaptation,general,semi_arid,doc_cli_005,"They deplete irrigation water, lower soil moisture, and reduce yields of millet, sorghum, and groundnuts.",146
+Does drought affect my livestock as well as crops?,climate_adaptation,livestock,semi_arid,doc_cli_005,"Yes, droughts cut livestock productivity and increase animal deaths from lack of water and poor pasture.",147
+Can drought lead to conflict in northern Nigeria?,climate_adaptation,general,semi_arid,doc_cli_005,"Yes, it can intensify conflict between farmers and herders over scarce water and grazing land.",148
+Who is hit hardest by drought in northern Nigeria?,climate_adaptation,livestock,semi_arid,doc_cli_005,Pastoral communities that depend on cattle are particularly affected.,149
+Which crops are most affected by drought in the north?,climate_adaptation,general,semi_arid,doc_cli_005,"Staple crops millet, sorghum, and groundnuts.",150
+What are zai pits and how do they help?,climate_adaptation,general,semi_arid,doc_cli_006,"Small holes dug before planting to collect rainwater and organic matter, improving soil moisture and yields.",151
+Are zai pits proven to work in northern Nigeria?,climate_adaptation,general,semi_arid,doc_cli_006,"Yes, studies there showed improved soil moisture retention and crop yields under drought-prone conditions.",152
+What other water-harvesting techniques suit the Sahel besides zai pits?,climate_adaptation,general,semi_arid,doc_cli_006,Drought-tolerant crop varieties and solar-powered drip irrigation.,153
+Do zai pits cost a lot to set up?,climate_adaptation,general,semi_arid,doc_cli_006,They are a low-cost traditional water-harvesting technique.,154
+When should zai pits be dug relative to planting?,climate_adaptation,general,semi_arid,doc_cli_006,"Before planting, so they can collect rainwater and organic matter around the crop.",155
+What is a community-based early warning system?,climate_adaptation,general,semi_arid,doc_cli_008,A system where local climate information is gathered and shared locally so farmers can act ahead of floods or droughts.,161
+Why should communities be involved in designing early warning systems?,climate_adaptation,general,semi_arid,doc_cli_008,Locally-tailored approaches address the specific vulnerabilities of each community better than top-down programmes.,162
+Can early warning systems help me protect my crop before a flood?,climate_adaptation,general,semi_arid,doc_cli_008,"Yes, they allow timely action to protect crops and livelihoods ahead of the event.",163
+Are early warning systems only useful for floods?,climate_adaptation,general,semi_arid,doc_cli_008,"No, they are also used for droughts.",164
+What information do community early warning systems rely on?,climate_adaptation,general,semi_arid,doc_cli_008,Local climate information gathered and shared at the community level.,165
+What is climate-smart agriculture?,climate_adaptation,general,semi_arid,doc_cli_009,"Practices that raise productivity, build climate resilience, and lower emissions where possible.",166
+What does conservation agriculture involve?,climate_adaptation,general,semi_arid,doc_cli_009,"Cover crops, crop rotation, and minimal soil disturbance to improve soil health and water retention.",167
+What is integrated soil fertility management?,climate_adaptation,general,semi_arid,doc_cli_009,Combining organic and inorganic fertilisers to manage soil fertility.,168
+How does agroforestry help climate resilience?,climate_adaptation,general,semi_arid,doc_cli_009,Integrating trees and shrubs improves soil structure and biodiversity while adding resilience to shocks.,169
+"Are climate-smart practices meant to raise yields too, not just resilience?",climate_adaptation,general,semi_arid,doc_cli_009,"Yes, they aim to raise productivity as well as build resilience and lower emissions.",170
+Who developed the drought-tolerant maize used in northern Nigeria?,climate_adaptation,maize,semi_arid,doc_cli_010,The International Institute of Tropical Agriculture (IITA).,171
+Do drought-tolerant maize varieties really yield more in dry years?,climate_adaptation,maize,semi_arid,doc_cli_010,"Yes, they yield more than standard varieties even in years with below-average rainfall.",172
+Should I combine drought-tolerant maize with planting date timing?,climate_adaptation,maize,semi_arid,doc_cli_010,"Yes, combining it with aligning planting to reliable rainfall onset is recommended.",173
+Why are drought-tolerant maize varieties becoming more important?,climate_adaptation,maize,semi_arid,doc_cli_010,"Drought frequency is increasing under climate change, raising the risk of crop failure.",174
+Have drought-tolerant maize varieties been widely adopted in Nigeria?,climate_adaptation,maize,semi_arid,doc_cli_010,"Yes, they have been widely adopted in northern Nigeria.",175
+Why can't I get credit to invest in climate-resilient farm inputs?,climate_adaptation,general,semi_arid,doc_cli_011,Only around ten percent of smallholder farmers in Nigeria have access to formal credit.,176
+Do women farmers face extra barriers to climate adaptation?,climate_adaptation,general,semi_arid,doc_cli_011,"Yes, many lack land ownership rights needed to secure credit.",177
+What limits smallholder access to solar irrigation or drought-tolerant seed?,climate_adaptation,general,semi_arid,doc_cli_011,Limited access to formal credit restricts investment in these technologies.,178
+"Besides credit, what else slows adaptation for women farmers?",climate_adaptation,general,semi_arid,doc_cli_011,Limited access to agricultural extension services and climate information.,179
+"Is limited credit access a barrier for smallholders generally, not just women?",climate_adaptation,general,semi_arid,doc_cli_011,"Yes, it is a major barrier for smallholder farmers generally.",180
+What adaptation strategy fits the Sahel region of Nigeria best?,climate_adaptation,general,semi_arid,doc_cli_012,"Drought-tolerant crop varieties, zai pits, and efficient irrigation.",181
+What adaptation strategy fits the Niger Delta best?,climate_adaptation,general,sub_humid,doc_cli_012,Flood-tolerant crops and community-based water management.,182
+What adaptation approach suits Nigeria's middle belt?,climate_adaptation,general,semi_arid,doc_cli_012,Combined approaches like conservation agriculture that address both drought and flood risk.,183
+Why shouldn't I use the same adaptation strategy everywhere in Nigeria?,climate_adaptation,general,semi_arid,doc_cli_012,"Different regions face different climate risks, so strategies work best when tailored locally.",184
+Is the middle belt more at risk of drought or flood?,climate_adaptation,general,semi_arid,doc_cli_012,"It is a transition zone between arid and humid conditions, facing both risks.",185
+Which crops carry the highest aflatoxin risk in the Sahel?,post_harvest,general,semi_arid,doc_pos_009,"Maize and groundnut, which were far more contaminated than sorghum.",206
+Can freshly harvested grain already be unsafe for aflatoxin?,post_harvest,general,semi_arid,doc_pos_009,"Yes, samples taken within one to two weeks of harvest already showed unsafe aflatoxin levels.",207
+How do Sahel aflatoxin levels compare to EU limits?,post_harvest,general,semi_arid,doc_pos_009,"Average levels in maize and groundnut reached hundreds of micrograms per kilogram, far above the 4 microgram EU limit.",208
+"Which countries were surveyed for aflatoxin in maize, groundnut, and sorghum?",post_harvest,general,semi_arid,doc_pos_009,"Burkina Faso, Mali, and Niger.",209
+Is groundnut as risky as maize for aflatoxin in the Sahel?,post_harvest,groundnuts,semi_arid,doc_pos_009,"Yes, both maize and groundnut were far more contaminated than sorghum.",210
+Is sorghum safer than maize for aflatoxin risk?,post_harvest,sorghum,semi_arid,doc_pos_010,"Generally yes, sorghum is less susceptible, and most samples stayed under the strict EU limit.",211
+Does sorghum ever exceed safe aflatoxin thresholds?,post_harvest,sorghum,semi_arid,doc_pos_010,"Yes, some sorghum samples, particularly in Niger, were well above safe thresholds.",212
+Should I still manage aflatoxin risk in sorghum even though it's lower risk?,post_harvest,sorghum,semi_arid,doc_pos_010,"Yes, sorghum still needs aflatoxin management attention despite being comparatively safer.",213
+Which country had the riskiest sorghum aflatoxin levels in the Sahel study?,post_harvest,sorghum,semi_arid,doc_pos_010,Niger.,214
+What share of sorghum samples met the EU aflatoxin limit?,post_harvest,sorghum,semi_arid,doc_pos_010,A majority of sorghum samples stayed under the four microgram per kilogram EU limit.,215
+Does aflatoxin contamination start before or after harvest?,post_harvest,general,semi_arid,doc_pos_011,"It often starts before harvest, in the field, since samples collected soon after harvest already showed high levels.",216
+What field conditions favor pre-harvest aflatoxin contamination?,post_harvest,general,semi_arid,doc_pos_011,Fungal spores in soil and crop debris infecting the crop under favourable temperature and humidity.,217
+Can poor storage make aflatoxin worse after harvest too?,post_harvest,general,semi_arid,doc_pos_011,"Yes, damp conditions and poor ventilation during storage can further raise aflatoxin levels.",218
+What kind of management is needed to control aflatoxin in the Sahel?,post_harvest,general,semi_arid,doc_pos_011,Integrated management addressing both pre-harvest field conditions and post-harvest drying and storage.,219
+Is drying grain properly enough to control aflatoxin on its own?,post_harvest,general,semi_arid,doc_pos_011,"No, because contamination can already occur in the field before harvest.",220
+How small are most African farms according to the continental soil survey?,soil_health,general,semi_arid,doc_soi_004,Well over half of surveyed fields were less than about two hectares.,221
+How common is fertiliser use on African farms?,soil_health,general,semi_arid,doc_soi_004,Inorganic fertiliser was used on only about a fifth of surveyed fields.,222
+How common is manure use across African farms?,soil_health,general,semi_arid,doc_soi_004,Manure was applied on under a fifth of fields.,223
+Do most African farmers keep crop residues on the field?,soil_health,general,semi_arid,doc_soi_004,"No, crop residues were retained on only about a quarter of fields.",224
+What does low fertiliser and manure use suggest about African soils?,soil_health,general,semi_arid,doc_soi_004,A widespread pattern of nutrient mining and low-input smallholder agriculture.,225
+How many African farms rely only on rainfall for water?,soil_health,general,semi_arid,doc_soi_005,Ninety-four percent of sampled fields relied entirely on rainfall.,226
+What share of African farmland has soil and water conservation measures?,soil_health,general,semi_arid,doc_soi_005,Only about thirteen percent; eighty-seven percent had no such measures.,227
+Why are rainfed African farms vulnerable to climate shocks?,soil_health,general,semi_arid,doc_soi_005,"With only about three percent irrigated, most farms are highly exposed to rainfall variability.",228
+What kinds of soil and water conservation measures were assessed?,soil_health,general,semi_arid,doc_soi_005,Vegetative barriers and structural works like bunds.,229
+Does the lack of conservation measures put African farmland at erosion risk?,soil_health,general,semi_arid,doc_soi_005,"Yes, most farmland lacks basic protection against erosion and water loss.",230
+What physical soil constraints are common across African farmland?,soil_health,general,semi_arid,doc_soi_006,"Compaction, coarse fragments, shallow effective rooting depth, and subsoil barriers.",231
+Can a soil that looks deep still restrict root growth?,soil_health,general,semi_arid,doc_soi_006,"Yes, subsoil barriers can restrict roots even in soils that appear deep at the surface.",232
+How common is tree cover on African farmland?,soil_health,general,semi_arid,doc_soi_006,Woody vegetation cover on farmland was found to be extremely sparse.,233
+Why does sparse tree cover matter for soil health?,soil_health,general,semi_arid,doc_soi_006,"It reduces organic matter inputs, weakens soil structure, and raises erosion risk.",234
+How much surveyed farmland showed active soil erosion?,soil_health,general,semi_arid,doc_soi_006,Roughly a fifth of surveyed agricultural land showed visible evidence of active erosion.,235
+My cowpea seedlings have curled leaves and sticky residue with tiny insects underneath — what is it?,pests,beans,semi_arid,doc_pes_004,Likely cowpea aphid; it feeds in colonies on leaf undersides and produces sticky honeydew.,236
+When is cowpea aphid damage worst?,pests,beans,semi_arid,doc_pes_004,"During dry spells, when aphid populations increase rapidly.",237
+What is the cheapest way to control cowpea aphids?,pests,beans,semi_arid,doc_pes_004,Planting resistant varieties is the cheapest control option.,238
+My cowpea flowers are distorted and dropping — could it be thrips?,pests,beans,semi_arid,doc_pes_005,"Yes, thrips feeding on shoots and flower buds causes distortion, drying, and flower shedding.",239
+Does early thrips damage on cowpea always reduce yield?,pests,beans,semi_arid,doc_pes_005,"No, damage before 42 days after planting does not normally cause yield loss.",240
+What intercropping helps reduce cowpea thrips?,pests,beans,semi_arid,doc_pes_005,"Intercropping cowpea with sorghum, millet, or cassava reduces thrips populations.",241
+Something is boring into my cowpea flowers and pods with webbing visible — what pest is this?,pests,beans,semi_arid,doc_pes_006,"Likely the legume pod borer (Maruca vitrata), which leaves webbing on flowers and pods.",242
+How much yield can Maruca destroy if uncontrolled?,pests,beans,semi_arid,doc_pes_006,Uncontrolled Maruca infestation can cause up to seventy percent yield loss.,243
+When is Maruca larvae most active?,pests,beans,semi_arid,doc_pes_006,"Mostly at night; during the day they shelter in flowers, pods, stems, and leaf debris.",244
+My cowpea pods have dimpled seed coats and are aborting — what could cause this?,pests,beans,semi_arid,doc_pes_007,"Likely pod sucking bugs, which cause dimpling, pod abortion, and seed deformation.",245
+What insecticide mixture controls pod sucking bugs in cowpea?,pests,beans,semi_arid,doc_pes_007,A mixture of dimethoate and cypermethrin is the most effective control.,246
+When should I apply my first insecticide spray on cowpea?,pests,beans,semi_arid,doc_pes_008,"About 30-35 days after planting, when bud initiation starts, for thrips, aphids, and early Maruca.",247
+How many sprays do local cowpea varieties usually need versus improved ones?,pests,beans,semi_arid,doc_pes_008,Improved varieties usually need 2-3 sprays; local varieties may need up to 4.,248
+"If I can only afford one cowpea spray, when should I apply it?",pests,beans,semi_arid,doc_pes_008,It is most effective applied at either budding or flowering.,249
+My young maize has dead central leaves (dead heart) — what pest causes this?,pests,maize,sub_humid,doc_pes_009,Likely maize stem borer; larvae tunnel into young plants causing the dead heart symptom.,250
+How much yield can maize stem borer cause with just one or two larvae per plant?,pests,maize,sub_humid,doc_pes_009,One to two larvae per plant can reduce yield by as much as 25 percent.,251
+What's the main non-chemical control for maize stem borer?,pests,maize,sub_humid,doc_pes_009,"Remove and burn damaged stems and cobs, and plow crop residues into the soil.",252
+My late-planted maize is withering with no clear cause — could pests be involved?,pests,maize,sub_humid,doc_pes_010,Possibly leaf hopper feeding; late-sown maize is highly vulnerable to high leaf hopper populations.,253
+What disease does maize leaf hopper transmit?,pests,maize,sub_humid,doc_pes_010,Maize streak virus.,254
+Why is my maize lodging in a field with water stress?,pests,maize,semi_arid,doc_pes_011,"Termite feeding on roots and lower stems weakens plants, leading to lodging, especially under water stress.",255
+How can I reduce termite buildup in my maize field?,pests,maize,semi_arid,doc_pes_011,"Avoid continuous cultivation on the same land, rotate crops, and avoid heaping residues or manure.",256
+What protective clothing should I wear when spraying pesticide?,pests,general,general,doc_pes_012,"Long-sleeved shirt, trousers, covered shoes, and eye protection.",257
+Is it safe to spray pesticide on a very windy day?,pests,general,general,doc_pes_012,"No, never spray when it is too windy, or when there is no wind at all.",258
+What's the first thing to do if someone is poisoned by pesticide?,pests,general,general,doc_pes_013,"Move the person away from the contamination to a recovery position, then check the label for first aid steps.",259
+Should I induce vomiting if someone swallows pesticide?,pests,general,general,doc_pes_013,"No, do not induce vomiting unless the product label specifically recommends it.",260
+How much cereal stover should I feed my goats per day in the dry season?,livestock,livestock,semi_arid,doc_liv_004,"About 1 kg per animal per day, preferably chopped into 5-10 cm pieces.",261
+What ratio of cereal to legume feed is recommended for cattle?,livestock,livestock,semi_arid,doc_liv_004,A cereal-legume mixture in a ratio of 2:1 daily.,262
+Why should I confine my animals at the start of the dry season?,livestock,livestock,semi_arid,doc_liv_004,To feed them stored crop residues instead of relying on depleted free grazing.,263
+Does keeping livestock reduce my need for inorganic fertiliser?,livestock,livestock,semi_arid,doc_liv_005,"Yes, manure from confined livestock reduces dependence on inorganic fertiliser.",264
+What income benefits come from integrating crops and livestock?,livestock,livestock,semi_arid,doc_liv_005,"Diversified income from grain, fodder, meat, and milk, plus more rural employment.",265
+How many plastic bags does the PICS method use for cowpea storage?,post_harvest,beans,semi_arid,doc_pos_012,"Three nested polyethylene bags, each about 80 microns thick.",266
+How long should PICS bags stay sealed before opening?,post_harvest,beans,semi_arid,doc_pos_012,A minimum of two months.,267
+What should I do after opening a PICS bag partway?,post_harvest,beans,semi_arid,doc_pos_012,Quickly remove the needed cowpea and re-seal the bag promptly to prevent re-infestation.,268
+How much wood ash should I mix with cowpea seed for storage protection?,post_harvest,beans,semi_arid,doc_pos_013,One kilogram of wood ash per forty kilograms of cowpea seed.,269
+How much groundnut oil protects stored cowpea from weevils?,post_harvest,beans,semi_arid,doc_pos_013,Five millilitres of groundnut oil per kilogram of cowpea seed.,270
+Why is mold dangerous in stored grain beyond just spoiling it?,post_harvest,general,general,doc_pos_014,"Mold can produce mycotoxins that harm the liver, kidney, brain, or skin of people and animals.",271
+What's the single best way to prevent mold in stored grain?,post_harvest,general,general,doc_pos_014,Proper sun-drying of grain before storage.,272
+What rodenticide acts fast against rats in my grain store?,post_harvest,general,general,doc_pos_015,"Zinc phosphide, a fast-acting acute rodenticide used as bait.",273
+"Besides rodenticides, how else can I keep rodents out of my grain store?",post_harvest,general,general,doc_pos_015,"Seal cracks and holes in the store, and keep cats for biological control.",274
+Does cowpea need heavy nitrogen fertiliser like cereals do?,fertiliser,beans,semi_arid,doc_fer_004,"No, cowpea fixes its own nitrogen via rhizobium and performs well under low-nitrogen conditions.",275
+What's the recommended basal fertiliser rate for cowpea?,fertiliser,beans,semi_arid,doc_fer_004,"At least 1 t/ha manure plus 100 kg/ha of NPK 15-15-15, broadcast before planting.",276
+What happens if I over-apply nitrogen to cowpea?,fertiliser,beans,semi_arid,doc_fer_004,"It promotes excess leafy growth, delays maturity, and can suppress the plant's own nitrogen fixation.",277
+What row spacing should I use for improved cowpea varieties?,fertiliser,beans,semi_arid,doc_fer_005,75 cm between rows and 20 cm within rows.,278
+How much cowpea seed do I need per hectare?,fertiliser,beans,semi_arid,doc_fer_005,About 20-25 kg of seed per hectare as a sole crop.,279
+Can I plant cowpea in dry soil?,fertiliser,beans,semi_arid,doc_fer_005,"No, dry planting is not advisable; plant only after a good rain of 15 mm or more.",280
