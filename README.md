@@ -55,7 +55,7 @@ This project is currently notebook-based (developed and run as a Kaggle-style no
 
 📁 Repository Structure
 
-C10-balepark/
+C10-team-balepark/
 
 ├── README.md
 
